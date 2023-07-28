@@ -221,6 +221,10 @@ body {
     color: #8f9bac;
 }
 
+.contact-link:hover{
+    color: #cbd1da;  
+}
+
 .tech-skills {
     margin-bottom: 50px;
 }
@@ -241,4 +245,17 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
+}
+
+.icons {
+    width: 25px;
+    height: 25px;
+    filter: invert(1);
+}
+
+.icons-info{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 10px;
 }
