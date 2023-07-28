@@ -259,3 +259,17 @@ body {
     align-items: center;
     margin-bottom: 10px;
 }
+
+.icons-location{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.location-text{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
